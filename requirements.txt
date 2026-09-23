@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+pytesseract==0.3.13
+pillow==10.4.0
+opencv-python==4.10.0.84
+passporteye==2.2.2
+face_recognition==1.3.0
+numpy==1.26.4
+pandas==2.2.2
